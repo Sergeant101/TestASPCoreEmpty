@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "RdrZSpFzgd2ZcwjBi4LjIew9twDJg1WwoS8N6GwG46M=",
+  "Source": "NordwindWeb",
+  "BasePath": "_content/NordwindWeb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "NordwindWeb\\wwwroot",
+      "Source": "NordwindWeb",
+      "ContentRoot": "D:\\Programs\\Code\\NordwindWeb\\wwwroot\\",
+      "BasePath": "_content/NordwindWeb",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
