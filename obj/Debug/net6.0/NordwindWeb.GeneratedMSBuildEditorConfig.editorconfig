@@ -8,25 +8,25 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = NordwindWeb
 build_property.RootNamespace = NordwindWeb
-build_property.ProjectDir = d:\Programs\Code\NordwindWeb\
+build_property.ProjectDir = D:\Programs\Code\NordwindWeb\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = d:\Programs\Code\NordwindWeb
+build_property.MSBuildProjectDirectory = D:\Programs\Code\NordwindWeb
 build_property._RazorSourceGeneratorDebug = 
 
-[d:/Programs/Code/NordwindWeb/Pages/index.cshtml]
+[D:/Programs/Code/NordwindWeb/Pages/index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Programs/Code/NordwindWeb/Pages/Shared/_Layout.cshtml]
+[D:/Programs/Code/NordwindWeb/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Programs/Code/NordwindWeb/Pages/suppliers.cshtml]
+[D:/Programs/Code/NordwindWeb/Pages/suppliers.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcc3VwcGxpZXJzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Programs/Code/NordwindWeb/Pages/_ViewStart.cshtml]
+[D:/Programs/Code/NordwindWeb/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
